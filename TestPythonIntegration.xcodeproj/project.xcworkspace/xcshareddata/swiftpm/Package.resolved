@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "loggerkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pvieito/LoggerKit.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "32680ce247721c879d3797c329904d3db720e551"
+      }
+    },
+    {
       "identity" : "python-ios",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/kewlbear/Python-iOS.git",
@@ -12,10 +21,28 @@
     {
       "identity" : "pythonkit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pvieito/PythonKit.git",
+      "location" : "https://github.com/kewlbear/PythonKit.git",
       "state" : {
         "branch" : "master",
-        "revision" : "060e1c8b0d14e4d241b3623fdbe83d0e3c81a993"
+        "revision" : "6caffb495e6315a00413f52cb034575965d40989"
+      }
+    },
+    {
+      "identity" : "rainbow",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Rainbow",
+      "state" : {
+        "revision" : "e0dada9cd44e3fa7ec3b867e49a8ddbf543e3df3",
+        "version" : "4.0.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c5050aa63ed5bb23209e7120b7ff6618ee06e0ee"
       }
     }
   ],
